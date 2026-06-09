@@ -22,4 +22,4 @@ Desenvolvedor em constante evolução, focado no ecossistema Linux, containeriza
 ### 📈 Diretrizes de Trabalho Local
 > *"Privacidade por design, automação por necessidade e portabilidade via containers."*
 
-Conecte-se comigo no [LinkedIn](https://linkedin.com/in/gerlan)!
+Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/gerlan-guerreiro-damasceno-4b4291145/)!
